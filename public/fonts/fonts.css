@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'OpenSans-Bold';
+    src: url('OpenSans-Bold.eot');
+    src: url('OpenSans-Bold.eot?#iefix') format('embedded-opentype'),
+    url('OpenSans-Bold.woff') format('woff'),
+    url('OpenSans-Bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'OpenSans-Semibold';
+    src: url('OpenSans-SemiBold.eot');
+    src: url('OpenSans-SemiBold.eot?#iefix') format('embedded-opentype'),
+    url('OpenSans-SemiBold.woff') format('woff'),
+    url('OpenSans-SemiBold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'OpenSans';
+    src: url('OpenSans-Light.eot');
+    src: url('OpenSans-Light.eot?#iefix') format('embedded-opentype'),
+    url('OpenSans-Light.woff') format('woff'),
+    url('OpenSans-Light.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
